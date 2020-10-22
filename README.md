@@ -1,7 +1,7 @@
 # ProjetoAutomacaoCapybara
 Projeto de automação de teste de aplicação web utilizando Capybara com Ruby.
 
-Este projeto tem como objetivo demonstar o uso de uma aplicação web atraves de testes automazados utilizando o framework Capybara e RSPec.
+Este projeto tem como objetivo demonstar o uso de uma aplicação web atraves de testes automatizados utilizando o framework Capybara e RSPec.
 
 O projeto contem os arquivos principais:
 -Funcionalidade.feature - (arquivo contendo as funcionalidades de cada componente testado. Foi utilizado na escrita os conceitos de BDD e linguagem Gherkin).
